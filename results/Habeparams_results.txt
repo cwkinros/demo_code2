@@ -1,0 +1,2 @@
+sgdlr, sgdlrmb, lr, lrmb, bw, bmmini, bmbig, bmmini_MBGD
+1.000000e-02, 1.000000e-01, 1.000000e-01, 1.000000e-01, 15, 10, 75, 5
